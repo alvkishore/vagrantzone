@@ -1,0 +1,1 @@
+{"virtualbox":{"/utilities":{"guestpath":"/utilities","hostpath":"D:/Vagrantsamples","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Vagrantsamples/ubuntuwithip","disabled":false,"__vagrantfile":true}}}
